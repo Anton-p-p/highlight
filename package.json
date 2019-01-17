@@ -1,0 +1,7 @@
+{
+"requires": true,
+"lockfileVersion": 1,
+"dependencies": {
+"sly": "git+https://github.com:Anton-p-p/highlight.git"
+}
+}
