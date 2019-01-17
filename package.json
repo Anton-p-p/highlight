@@ -7,4 +7,7 @@
 "dependencies": {
 "sly": "git+https://github.com:Anton-p-p/highlight.git"
 }
+"files": [
+"jquery.highlight-5.js",
+],
 }
