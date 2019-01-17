@@ -1,6 +1,6 @@
 {
 	"name": "highlight",
-	"version": "1.0",
+	"version": "1.0.0",
 	"repository": "Anton-p-p/highlight",
 	"requires": true,
 	"lockfileVersion": 1,
