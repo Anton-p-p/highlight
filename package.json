@@ -1,10 +1,10 @@
 {
-"name": "highlight",
-"version": "1.0",
-"repository": "Anton-p-p/highlight",  
-"requires": true,
-"lockfileVersion": 1,
-"files": [
-"jquery.highlight-5.js",
-]
+	"name": "highlight",
+	"version": "1.0",
+	"repository": "Anton-p-p/highlight",
+	"requires": true,
+	"lockfileVersion": 1,
+	"files": [
+		"jquery.highlight-5.js"
+	]
 }
