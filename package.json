@@ -1,4 +1,6 @@
 {
+"name": "highlight",  
+"repository": "Anton-p-p/highlight",  
 "requires": true,
 "lockfileVersion": 1,
 "dependencies": {
